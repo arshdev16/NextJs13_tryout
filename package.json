@@ -6,9 +6,13 @@
     "start": "next start"
   },
   "dependencies": {
+    "firebase": "^9.15.0",
+    "formik": "^2.2.9",
     "next": "latest",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-icons": "^4.7.1",
+    "yup": "^0.32.11"
   },
   "devDependencies": {
     "@types/node": "18.11.3",
